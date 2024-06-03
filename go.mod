@@ -1,4 +1,4 @@
-module github.com/gobitfly/eth-rewards
+module github.com/SergeevDmitry/eth-rewards
 
 go 1.18
 
