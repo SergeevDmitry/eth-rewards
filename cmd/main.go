@@ -4,8 +4,8 @@ import (
 	"flag"
 	"time"
 
-	ethrewards "github.com/gobitfly/eth-rewards"
-	"github.com/gobitfly/eth-rewards/beacon"
+	ethrewards "github.com/SergeevDmitry/eth-rewards"
+	"github.com/SergeevDmitry/eth-rewards/beacon"
 	"github.com/sirupsen/logrus"
 )
 

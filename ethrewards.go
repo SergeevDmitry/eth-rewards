@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/gobitfly/eth-rewards/beacon"
-	"github.com/gobitfly/eth-rewards/elrewards"
-	"github.com/gobitfly/eth-rewards/types"
+	"github.com/SergeevDmitry/eth-rewards/beacon"
+	"github.com/SergeevDmitry/eth-rewards/elrewards"
+	"github.com/SergeevDmitry/eth-rewards/types"
 	"golang.org/x/sync/errgroup"
 
 	"github.com/sirupsen/logrus"
